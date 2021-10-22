@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+.intro{
+  font-family: 'Paytone One', sans-serif;
+  background-image: linear-gradient(to bottom, #3586ec, #a98de2, #dd9dd4, #f7b6cd, #ffd5d5);
+}
+.header{
+  font-family:'Paytone One';
+}
+.projects{
+  background-image: linear-gradient(to right top, #f6b1b1, #f2b3ce, #debbe8, #bfc5f8, #9dd0fb);
+}
+.educ{
+  background-image: linear-gradient(to left bottom, #ffe75f, #ffcb73, #ffb49b, #ffabc5, #ffade4);
+}
+.About{
+  background-image: linear-gradient(to bottom, #aa4ea8, #d56498, #ed8590, #f7aa96, #fccfad);
+}
